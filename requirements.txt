@@ -1,0 +1,5 @@
+streamlit==1.36.0
+huggingface_hub==0.24.6
+pypdf==4.2.0
+python-dotenv==1.0.1
+
